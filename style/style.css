@@ -1,6 +1,9 @@
 
+body {
+    background-color: #f2f9fa;
+}
 .h5 h5, p {
-    color: #ffa438;
+    color: #8d99ae;
     font-weight: 900;
 }
 
