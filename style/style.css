@@ -1,0 +1,236 @@
+
+.h5 h5, p {
+    color: #ffa438;
+    font-weight: 900;
+}
+
+.col img {
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.contained {
+    margin-top: 100px;
+}
+
+.col a {
+    text-decoration: none;
+    color: #696970;
+   font-weight: 900;
+}
+
+.col img:hover {
+    border-radius: 60%;
+    transition: all ease-out 0.5s;
+}
+
+.image1 img {
+    width: 150px ;
+    height: 150px;
+}
+
+.second-container {
+    margin-top: 120px;
+    margin-bottom: 40px;
+}
+
+/* .col6 img {
+    width: 400px;
+    height: 400px;
+} */
+
+ .col5{
+    background-color: #f2f9fa;
+    color: #485d8f;
+    text-decoration: none;
+    padding: 20px;
+   
+   
+}
+
+.col5 p {
+    color: #485d8f;
+}
+
+.contain {
+    margin-top: 100px;
+   
+}
+
+.col5 {
+    margin-top: 20px;
+}
+
+.card a img {
+    width: 30px;
+    height: 30px;
+}
+.card {
+    margin-top: 40px;
+}
+.card:hover {
+    background-color: #fbf0f2;
+    transition: all ease-in-out 0.5s;
+    cursor: pointer;
+}
+
+
+
+.col8 img {
+    width: 500px;
+    height: 500px;
+}
+
+@media screen  and (max-width: 500px){
+    .col8 img {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+.col9 {
+    background-color: #f0f2e8;
+    color: #3e560a;
+}
+.col9 p {
+    color: #3e560a;
+
+}
+
+.insider a {
+    background-color: #3a71a8;
+    padding: 10px 20px;
+    border-radius: 40px;
+    color: #f2f9fa;
+    margin: 10px;
+}
+
+
+.col10 img {
+   width: 50px;
+   height: 50px; 
+}
+
+.contact {
+    margin-top: 60px;
+    
+}
+
+.col10 {
+    border: 1px solid #0000 !important;
+}
+
+.col10 .border {
+    margin: 40px !important;
+}
+
+.col10 .col p {
+  color: #2c2c2c;
+}
+.col10 .col span {
+    font-style: italic;
+    color: #3a71a8;
+}
+
+.last-container {
+    margin-top: 100px;
+}
+.last-brands h4 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.last-brands ul{
+    list-style: none;
+    
+}
+.last-brands a {
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.last-brands a:hover {
+    border-bottom: 1px solid #696970 !important;
+    transition: all ease-in-out 0.5s;
+}
+.social {
+    margin-top: 100px;
+}
+.social ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+
+}
+
+.social ul li  {
+    margin-left: 20px;
+ 
+}
+
+.social a {
+    text-decoration: none;
+}
+
+
+.copy-right img {
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 70px;
+    
+}
+footer {
+    background-color: #3a71a8;
+    
+}
+.copy-right ul 
+ {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    
+    
+    
+}
+
+.copy-right ul a {
+text-decoration: none;
+color: #f2f9fa;
+}
+
+.copy-right ul a:hover {
+    border-bottom: 1px solid #f2f9fa;
+    transition: all ease-in-out 0.5s;
+}
+
+@media screen  and (max-width: 500px){
+    .footer {
+        text-align: center;
+    }
+    .list {
+        text-align: center !important;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+}
+
+.copy-right li {
+    margin-left: 20px;
+}
+.list {
+    margin-right: 100px;
+}
